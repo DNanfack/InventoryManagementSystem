@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# IDE specific files
+.idea/
+dist/
+build/
+nbproject/private/
+
 # Log file
 *.log
 
